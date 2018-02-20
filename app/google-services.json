@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "702131142182",
+    "firebase_url": "https://analyticsmanager-60f86.firebaseio.com",
+    "project_id": "analyticsmanager-60f86",
+    "storage_bucket": "analyticsmanager-60f86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702131142182:android:567dc577a54ff1ee",
+        "android_client_info": {
+          "package_name": "com.otiasj.analyticsmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702131142182-r3enva0smsab2q2m1i01qr0pks6akpqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAdBWNTd9B-4KVeLRaU8NHLdvdKKMKnrM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
